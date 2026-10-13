@@ -36,9 +36,9 @@ Las fuentes pasivas no garantizan un mapeo del 100% de la infraestructura intern
 <!-- STATS:START -->
 - **Fecha de corte:** 13/10/2026
 
-- **Subdominios totales encontrados (Subfinder):** 14,950
+- **Subdominios totales encontrados (Subfinder):** 12,662
 
-- **Dominios activos comprobados (HTTPx):** 4,873
+- **Dominios activos comprobados (HTTPx):** 4,910
 <!-- STATS:END -->
 
 Los dominios activos, contienen portales web activos, infraestructura TI, correo, respuestas 403, 401, 5xx, configuracion inicial de servidores, errores de CDN, DNS y timeouts.
